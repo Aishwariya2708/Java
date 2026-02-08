@@ -6,5 +6,3 @@ class Hello
     }
 }
 
-// javac Hello.java
-// java Hello       java Hello.java

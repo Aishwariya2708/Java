@@ -10,7 +10,8 @@ class AdditionClient
         
         Socket sobj = new Socket("localhost",2100);
 
-        DataInputStream diobj = new DataInputStream(sobj.getInputStream()); //ear
-        DataOutputStream doobj = new DataOutputStream(sobj.getOutputStream()); //mouth
+        DataInputStream diobj = new DataInputStream(sobj.getInputStream()); 
+        DataOutputStream doobj = new DataOutputStream(sobj.getOutputStream()); 
     }
+
 }

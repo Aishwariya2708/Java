@@ -23,19 +23,3 @@ class Input
 }  
 
   
-/*
- 
-        primitive datatype             method(Scanner())
-
-        boolean                         nextBoolean
-        byte                            nextByte
-        char                               ---
-        int                             nextInt
-        flaot                           nextFlaot
-        short                           nextShort
-        double                          nextDouble
-        long                            nextLong   
-
-
- */
-

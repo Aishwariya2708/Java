@@ -1,7 +1,7 @@
 import java.io.*;
 
 
-class InputDemoXX
+class InputDemo2
 {
     public static void main(String A[]) throws  IOException
     {
@@ -17,4 +17,5 @@ class InputDemoXX
 
 
     }
+
 }

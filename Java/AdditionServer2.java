@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 
-    class AdditionServerXX
+    class AdditionServer2
     {
     public static void main(String A[]) throws Exception
     {
@@ -26,4 +26,5 @@ import java.util.*;
          doobj.writeInt(Sum);
          System.out.println("End of server application");
     }
+
 }

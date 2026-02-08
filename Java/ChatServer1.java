@@ -2,7 +2,7 @@
 import java.io.*;
 import java.net.*;
 
-class ChatServerX
+class ChatServer1
 {
     public static void main(String A[]) throws Exception
      {
@@ -34,6 +34,7 @@ while ((str1=bobj1.readLine())!=null)
 }
 
 }
+
 
 
 }

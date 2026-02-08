@@ -66,11 +66,12 @@ class MarvellousLogin implements ActionListener
     
 
 
-class LoginFormXX
+class LoginForm2
 {
     public static void main(String A[])
     {
          MarvellousLogin mobj = new MarvellousLogin("MarvellosLogin",400,300);
 
     }
+
 }

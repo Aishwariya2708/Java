@@ -57,11 +57,12 @@ class Calculator implements ActionListener
     
 
 
-class CalculatorX
+class Calculator1
 {
     public static void main(String A[])
     {
          Calculator mobj = new Calculator("Calculator",400,300);
 
     }
+
 }

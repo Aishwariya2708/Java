@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*;
 
 
-    class AdditionServerX
+    class AdditionServer1
     {
     public static void main(String A[]) throws Exception
     {
@@ -18,4 +18,5 @@ import java.util.*;
         no++;
         doobj.writeInt(no);
     }
+
 }

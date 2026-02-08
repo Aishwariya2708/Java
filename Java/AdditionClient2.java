@@ -2,7 +2,7 @@ import java.net.*;
 import java.io.*;
 import java.util.*;
 
-class AdditionClientXX
+class AdditionClient2
 {
     public static void main(String A[]) throws Exception
     {
@@ -29,5 +29,6 @@ class AdditionClientXX
 
 
     }
+
 
 }

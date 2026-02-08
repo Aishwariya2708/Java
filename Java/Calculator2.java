@@ -86,10 +86,11 @@ class Calculator implements ActionListener
 
 }
 
-public class CalculatorXX 
+public class Calculator2
 {
     public static void main(String[] args) 
     {
         new Calculator(" Calculator", 350, 300);
     }
 }
+

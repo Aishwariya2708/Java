@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-class ChatClientX
+class ChatClient1
 {
     public static void main (String A [])throws Exception
     {
@@ -32,4 +32,5 @@ class ChatClientX
             
         }
     }
+
 }

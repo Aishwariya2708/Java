@@ -1,6 +1,6 @@
 import java.io.*;
 
-class InputDemoX 
+class InputDemo1 
 {
     public static void main(String A[]) throws  IOException
     {
@@ -25,4 +25,5 @@ class InputDemoX
 
 
     }
+
 }

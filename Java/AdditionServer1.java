@@ -11,8 +11,8 @@ import java.util.*;
          System.out.println("Server is waiting at port 2100");
          Socket sobj= ssobj.accept();
         System.out.println("Client request arrives and connected successfully");
-         DataInputStream diobj = new DataInputStream(sobj.getInputStream());  //ear
-         DataOutputStream doobj = new DataOutputStream(sobj.getOutputStream()); //mouth
+         DataInputStream diobj = new DataInputStream(sobj.getInputStream());  
+         DataOutputStream doobj = new DataOutputStream(sobj.getOutputStream()); 
         int no = diobj.readInt();
         System.out.println("Data received client is: "+no);
         no++;
@@ -20,3 +20,4 @@ import java.util.*;
     }
 
 }
+

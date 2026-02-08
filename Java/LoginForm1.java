@@ -15,11 +15,12 @@ class MarvellousLogin extends JFrame
     
 
 
-class LoginFormX 
+class LoginForm1
 {
     public static void main(String A[])
     {
          MarvellousLogin mobj = new MarvellousLogin("MarvellosLogin",400,300);
 
     }
+
 }
